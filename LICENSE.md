@@ -17,6 +17,10 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 1. You may not use this software for coordinating or promoting violence.
 2. You may not receive monetary compensation in exchange for hosting this software.
 
+## Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
+
 ## Notices
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
@@ -40,10 +44,6 @@ Use by any charitable organization, educational institution, public research org
 ## Defense
 
 Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
-
-## Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Patent
 
