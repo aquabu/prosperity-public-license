@@ -10,7 +10,11 @@ This license allows you to use and share this software for noncommercial purpose
 
 ## Agreement
 
-In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
+To receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license. Don't do anything with this software against any rule you can't or won't follow.
+
+## Prohibited Purposes
+
+1. You may not use this software for coordinating or promoting violence.
 
 ## Notices
 
@@ -18,7 +22,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Commercial Trial
 
-Limit your use of this software for commercial purposes to a thirty-day trial period.  If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
+Limit your use of this software for commercial purposes to a thirty-day trial period. If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
 
 ## Contributions Back
 
@@ -31,10 +35,6 @@ Personal use for research, experiment, and testing for the benefit of public kno
 ## Noncommercial Organizations
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
-
-## Prohibited Purposes
-
-You may not use this software for coordinating or promoting violence.
 
 ## Defense
 
