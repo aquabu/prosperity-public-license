@@ -15,6 +15,7 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 ## Prohibited Purposes
 
 1. You may not use this software for coordinating or promoting violence.
+2. You may not receive monetary compensation in exchange for hosting this software.
 
 ## Notices
 
