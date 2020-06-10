@@ -1,6 +1,6 @@
-# The Ethical Prosperity Public License Development Draft
+# Ethical Non-Commercial License (DRAFT)
 
-Contributor: $name
+Contributors: $name
 
 Source Code: $address
 
@@ -32,11 +32,9 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
 
-## Human Rights Principles
+## Prohibited Purposes
 
-Only use consistent with Human Rights Principles is permitted. You are advised to consult the articles of the United Nations Universal Declaration of Human Rights and the United Nations Global Compact that define recognized principles of international human rights (the “Human Rights Principles”). 
-
-The software must not be used by any person or entity for any systems, activities, or other uses that violate any Human Rights Laws. “Human Rights Laws” means any applicable laws, regulations, or rules (collectively, “Laws”) that protect human, civil, labor, privacy, political, environmental, security, economic, due process, or similar rights; provided, however, that such Laws are consistent and not in conflict with Human Rights Principles. Where the Human Rights Laws of more than one jurisdiction are applicable or in conflict with respect to the use of the software, the Human Rights Laws that are most protective of the individuals or groups harmed shall apply.
+You may not use this software for coordinating or promoting violence.
 
 ## Defense
 
@@ -44,15 +42,15 @@ Don't make any legal claim against anyone accusing this software, with or withou
 
 ## Copyright
 
-The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+Each contributor licenses you to do everything with this software that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Patent
 
-The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+Each contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
 
 ## Reliability
 
-The contributor can't revoke this license.
+No contributor can revoke this license.
 
 ## Excuse
 
