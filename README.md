@@ -1,3 +1,7 @@
+# Modification Notes
+
+This is a modified version of the Prosperity License. It is a draft of possible terms for a CoMakery source code repository.
+
 # The Prosperity Public License
 
 Prosperity is a public `LICENSE` for open software that requires users who use your software for commercial purposes to limit their use to a period of days.  In other words, Prosperity works for software similar to how [Creative Commons' Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/) works for other creative work.  Software under Prosperity is free for noncommercial use, and offers a free, automatic, honor-system trial to commercial users.
