@@ -14,7 +14,7 @@ To receive this license, you have to agree to its rules. Those rules are both ob
 
 ## Copyright
 
-Contributor licenses you to do everything with this software for [noncommercial](#noncommercial-organizations), [software improvement](#software-improvement) or [personal uses](#personal-uses) that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
+Contributor licenses you to do everything with this software for [Noncommercial](#noncommercial-organizations), [Software Improvement](#software-improvement) or [Personal Uses](#personal-uses) that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Prohibited Purposes
 
