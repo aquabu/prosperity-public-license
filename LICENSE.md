@@ -6,32 +6,20 @@ Source Code: $address
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
+This license allows you to use and share this software for noncommercial purposes for free, to improve the software with or without contributing changes back, and to try this software for commercial purposes for thirty days.
 
 ## Agreement
 
-To receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license. Don't do anything with this software against any rule you can't or won't follow.
-
-## Prohibited Purposes
-
-1. You may not use this software for coordinating or promoting physical violence against people or property.
-2. You may not receive monetary compensation in exchange for web hosting including providing, maintaining or configuring a computer that runs this sofware code. If you wish to receive compensation in exchange for web hosting contact license@comakery.com about a hosting partnership.
+To receive this license, you have to agree to its rules. Those rules are both obligations under that agreement and conditions to your license. Don't do anything with this software against any rule you can't or won't follow.
 
 ## Copyright
 
-The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
+Contributor licenses you to do everything with this software for [noncommercial](#noncommercial-organizations), [software improvement](#software-improvement) or [personal uses](#personal-uses) that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
-## Notices
+## Prohibited Purposes
 
-Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
-
-## Commercial Trial
-
-Limit your use of this software for commercial purposes to a thirty-day trial period. If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
-
-## Contributions Back
-
-Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html) doesn't count as use for a commercial purpose.
+1. You may not receive monetary compensation for operating or maintaining a computer that runs this sofware code on behalf of another organization or person. If you wish to receive monetary compensation for hosting services contact license@comakery.com about a hosting partnership.
+2. You may not use this software for coordinating or promoting physical violence against people or property.
 
 ## Personal Uses
 
@@ -40,6 +28,22 @@ Personal use for research, experiment, and testing for the benefit of public kno
 ## Noncommercial Organizations
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
+
+## Software Improvement
+
+Developing feedback, changes, or additions that you do not contribute back to the contributor doesn't count as use for a commercial purpose regardless of whether the developments were in exchange for monetary compensation.
+
+## Contributions Back
+
+Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html) doesn't count as use for a commercial purpose.
+
+## Commercial Trial
+
+Limit your use of this software for commercial purposes to a thirty-day trial period. If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
+
+## Notices
+
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
 ## Defense
 
