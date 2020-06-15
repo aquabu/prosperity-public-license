@@ -19,7 +19,7 @@ Contributor licenses you to do everything with this software for [noncommercial]
 ## Prohibited Purposes
 
 1. You may not receive monetary compensation for operating or maintaining a computer that runs this sofware code on behalf of another organization or person. If you wish to receive monetary compensation for hosting services contact license@comakery.com about a hosting partnership.
-2. You may not use this software for coordinating or promoting physical violence against people or property.
+2. You may not use this software for coordinating or promoting violence.
 
 ## Personal Uses
 
