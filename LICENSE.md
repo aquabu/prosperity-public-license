@@ -14,8 +14,8 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ## Prohibited Purposes
 
-1. You may not use this software for coordinating or promoting violence.
-2. You may not receive monetary compensation in exchange for hosting this software.
+1. You may not use this software for coordinating or promoting physical violence against people or property.
+2. You may not receive monetary compensation in exchange for web hosting including providing, maintaining or configuring a computer that runs this sofware code. If you wish to receive compensation in exchange for web hosting contact license@comakery.com about a hosting partnership.
 
 ## Copyright
 
