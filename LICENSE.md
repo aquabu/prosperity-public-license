@@ -1,4 +1,4 @@
-# Ethical Non-Commercial License (DRAFT)
+# Noncommercial Nonviolent License (DRAFT)
 
 Contributor: CoMakery, Inc.
 
