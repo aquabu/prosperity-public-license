@@ -34,7 +34,7 @@ Use by any charitable organization, educational institution, public research org
 
 ## Prohibited Purposes
 
-You may not use the software to willfully promote, further, or assist the use of physical force against people or property.
+You may not willfully use the software to promote, further, or assist the use of physical force against people or property.
 
 ## Defense
 
