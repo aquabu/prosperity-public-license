@@ -1,4 +1,4 @@
-# CoMakery Noncommercial Nonviolent Public License 1.0
+# Noncommercial Nonviolent Public License 1.0
 
 Contributor: $name
 
