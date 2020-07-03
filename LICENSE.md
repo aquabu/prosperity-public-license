@@ -6,7 +6,7 @@ Source Code: $address
 
 ## Purpose
 
-This license allows you to use and share this software for nonviolent noncommercial purposes for free and to try this software for nonviolent commercial purposes for thirty days.
+This license allows you to use and share this software for noncommercial nonviolent purposes for free and to try this software for commercial nonviolent purposes for thirty days.
 
 ## Agreement
 
