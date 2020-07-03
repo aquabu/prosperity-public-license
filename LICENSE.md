@@ -32,7 +32,7 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
 
-## Prohibited Purposes
+## Prohibited Purpose
 
 You may not willfully use the software to promote, further, or assist the use of physical force against people or property.
 
