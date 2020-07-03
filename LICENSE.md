@@ -1,4 +1,4 @@
-# CoMakery Noncommercial Public License Draft
+# CoMakery Noncommercial & Nonviolent Public License Draft
 
 Contributor: $name
 
@@ -6,7 +6,7 @@ Source Code: $address
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
+This license allows you to use and share this software for nonviolent noncommercial purposes for free and to try this software for nonviolent commercial purposes for thirty days.
 
 ## Agreement
 
