@@ -1,4 +1,4 @@
-# The Prosperity Public License Development Draft
+# CoMakery Noncommercial Public License Draft
 
 Contributor: $name
 
@@ -30,7 +30,11 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding. You may not use the software to promote the use of physical violence against people or property.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
+
+## Prohibited Purposes
+
+You may not use the software to willfully promote, further, or assist the use of physical force against people or property.
 
 ## Defense
 
