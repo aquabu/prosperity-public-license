@@ -1,4 +1,4 @@
-# CoMakery Noncommercial & Nonviolent Public License Draft
+# CoMakery Noncommercial Nonviolent Public License Draft
 
 Contributor: $name
 
